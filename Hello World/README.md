@@ -1,8 +1,5 @@
 
-## 📘 Primeira Aula de Java — Repositório de Classes.Estudos
-
-Este repositório contém os códigos e anotações da minha primeira aula de Java, utilizando a IDE [IntelliJ IDEA](https://www.jetbrains.com/idea/). Aprendemos os fundamentos da linguagem, como criação de classes, operações básicas e o clássico `Hello World`.
-
+## 📘 Primeira Aula de Java — Hello World e Operações
 ---
 
 ## 🚀 Conteúdo Abordado
