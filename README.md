@@ -33,7 +33,7 @@ char = Um caractere
 boolean	Verdadeiro ou falso
 String = Texto (palavras)
  ````
-#✅ Condicionais (if, else, else if)
+# ✅ Condicionais (if, else, else if)
 Permitem executar ações diferentes dependendo de uma condição:
 ````Java
 int idade = 20;
