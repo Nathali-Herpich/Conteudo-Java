@@ -131,27 +131,6 @@ do {
 } while (x < 3);
 ```
 
-# 🔧 Funções (métodos):
-Blocos de código reutilizáveis:
 
-Sem retorno:
-````Java
-public static void saudacao() {
-    System.out.println("Olá!");
-}
-`````
-
-Com parâmetro e sem retorno:
-````
-public static void mostrarNome(String nome) {
-    System.out.println("Seu nome é: " + nome);
-}
-````
-Com retorno:
-````
-public static int somar(int a, int b) {
-    return a + b;
-}
-`````
 
 
