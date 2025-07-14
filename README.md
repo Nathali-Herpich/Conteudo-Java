@@ -26,7 +26,12 @@ double altura = 1.75;
 char letra = 'A';
 boolean ativo = true;
 String nome = "Maria";
-Tipo = Significado
+````
+
+
+Significado
+
+```´ Java
 int = Número inteiro
 double = Número decimal
 char = Um caractere
