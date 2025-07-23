@@ -6,14 +6,13 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite um número: ");
         int numero = scanner.nextInt();
-        int numero1 = 0;
-        int numero2 = -1;
 
-       if (numero2 >= numero1) {
-           System.out.println("Seu número é negativo");
-       }
-       else {
-           System.out.println("Seu múmero é positivo");
-       }
+        if (numero > 0) {
+            System.out.println("Seu número é positivo");
+        } else if (numero < 0) {
+            System.out.println("Seu número é negativo");
+        } else {
+            System.out.println("Você digitou zero");
+        }
     }
 }
